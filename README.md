@@ -1,2 +1,2 @@
 # Mathematical-Methods-for-Data-Analysis
-HSE course
+Homeworks for HSE course
